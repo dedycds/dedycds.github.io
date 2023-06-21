@@ -1,0 +1,11 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dedycds/dedycds.github.io",
+  "author": "Dedy Cds <dedycds@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
